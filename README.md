@@ -6,4 +6,8 @@ COMANDOS:
 
 git clone https://github.com/Maalfer/Dockerfiles_Hacking.git
 
+cd Dockerfiles_Hacking/
+
+docker build --tag hacking .
+
 docker run -it --network=host hacking bash
