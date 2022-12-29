@@ -1,3 +1,3 @@
 # Almacen_Dockerfiles
 
-Repositorio donde se ubican todas mis imágenes personalizadas de Docker y publicadas en Dockerhub.
+Repositorio donde se guarda un fichero Dockerfile que contiene las instrucciones para instalar las herramientas más útiles de hacking dentro de Docker, de tal forma que se podrá ejecutar en cualquier sistema operativo.
